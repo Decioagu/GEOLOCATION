@@ -7,7 +7,11 @@
 
 
 - Pagina de busca:
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 21a93b04c9ef5b2b8e687f36970b196f2a782e32
 ![Buscador](Imagem/01.png)
 
 - Pesquise por algum produto desejada e informe uma cidade:
@@ -20,6 +24,7 @@
 ![Lista de endereço](Imagem/03.png)
 
 - Seque ampliação do mapa:
+  
 ![Mapa](Imagem/04.png)
 
 - Seque informação do terminal conforme pesquisa:
