@@ -7,6 +7,7 @@
 
 
 - Pagina de busca:
+  
 ![Buscador](Imagem/01.png)
 
 - Pesquise por algum produto desejada e informe uma cidade:
