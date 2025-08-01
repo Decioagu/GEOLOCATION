@@ -5,6 +5,7 @@
 - O projeto tem como objetivo realizar buscas utilizando IPs de usuários aleatórios, simulando conexões provenientes de diferentes cidades ao redor do mundo. A partir dessas buscas, será conduzida uma pesquisa relacionada a um determinado produto e cidade definida pelo usuário, resultando na exibição de uma lista com até 15 endereços, acompanhados dos respectivos nomes dos estabelecimentos.
     - Exp: McDonald's: Av. Governador Amaral Peixoto, 507, Nova Iguaçu - RJ 26210-060, Brazi
 
+
 - Pagina de busca:
 ![Buscador](Imagem/01.png)
 
