@@ -20,6 +20,7 @@
 ![Lista de endereço](Imagem/03.png)
 
 - Seque ampliação do mapa:
+  
 ![Mapa](Imagem/04.png)
 
 - Seque informação do terminal conforme pesquisa:
